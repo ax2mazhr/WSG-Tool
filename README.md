@@ -30,3 +30,5 @@ This simple bat script is used to create a basic website folder structure plus i
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 ```
+
+**This is not a sitemap genrator**
