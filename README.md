@@ -34,6 +34,7 @@ This simple bat script is used to create a basic website folder structure plus i
 ## Instructions
 1. Place *Run WSG.bat* in the location where you want to create the root folder to be created
 2. Run *Run WSG.bat* and it will automatically create everything for you!
-*if you get issues,try run as adminsitrator*
+
+*If you get issues,try run as adminsitrator*
 
 This is not a sitemap generator
