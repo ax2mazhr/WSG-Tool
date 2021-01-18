@@ -57,7 +57,7 @@ echo   width: 100%%;
 echo }
 echo.
 echo body{
-echo   /*background-image: url^(../content/bg.jpg^) ;*/
+echo   /*background-image: url^(../img/bg.jpg^) ;*/
 echo   background-color: white !important;
 echo   -moz-background-size: cover;
 echo   -webkit-background-size: cover;
