@@ -31,4 +31,9 @@ This simple bat script is used to create a basic website folder structure plus i
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 ```
 
+## Instructions
+1. Place *Run WSG.bat* in the location where you want to create the root folder to be created
+2. Run *Run WSG.bat* and it will automatically create everything for you!
+*if you get issues,try run as adminsitrator*
+
 This is not a sitemap generator
