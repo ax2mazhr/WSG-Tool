@@ -58,7 +58,7 @@ echo }
 echo.
 echo body{
 echo   /*background-image: url^(../content/bg.jpg^) ;*/
-echo   background-color: black !important;
+echo   background-color: white !important;
 echo   -moz-background-size: cover;
 echo   -webkit-background-size: cover;
 echo   -o-background-size: cover;
